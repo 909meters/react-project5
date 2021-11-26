@@ -1,0 +1,17 @@
+.friends {
+    margin-top: 100px;
+    margin-left: 100px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.friends {
+    width: 400px;
+}
+  
+
+li {
+    list-style-type: none;
+    color: black;
+}
